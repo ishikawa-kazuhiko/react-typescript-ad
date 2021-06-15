@@ -5,6 +5,7 @@ import { Todo } from "./Todo";
 import { TodoType } from "./types/todo";
 import { Text } from "./Text";
 import { UserProfile } from "./UserProfile";
+import { User } from "./types/user";
 
 const user: User = {
   name: "山田太郎",
